@@ -41,7 +41,6 @@ dd.exe
 ee.exe
 ff.exe
 gg.exe
-hh.exe
 ii.exe
 jj.exe
 kk.exe
@@ -654,7 +653,6 @@ darkcomet.exe
 oraclerat.exe
 agent.exe
 remote.exe
-control.exe
 panel.exe
 grabber.exe
 browserpass.exe
@@ -729,7 +727,6 @@ encrypt.exe
 decrypt.exe
 ransom.exe
 locker.exe
-recover.exe
 restorefiles.exe
 decryptfiles.exe
 temp.exe
